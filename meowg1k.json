@@ -6,14 +6,14 @@
             "bin": [
                 "meow.exe"
             ],
-            "hash": "0c72630d5281b359b804836731b0514f9fe216c56cde0d270f36bbbb1dfd36c9"
+            "hash": "d3365c80a7b5eb79c2aa2db12cb55e4f77b7969022ae8574db687308a203c133"
         },
         "arm64": {
             "url": "https://github.com/retran/meowg1k/releases/download/v0.1.0/meowg1k_0.1.0_windows_arm64.zip",
             "bin": [
                 "meow.exe"
             ],
-            "hash": "bc8f5412fe49e2b9586851679204bd47477b70abc1132af0d7552e450a998588"
+            "hash": "7ea8117443b736d5873ab711a5d0232f471acde10c189134a7ff3be4ee430683"
         }
     },
     "homepage": "https://github.com/retran/meowg1k",
