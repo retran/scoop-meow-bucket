@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/retran/meowg1k/releases/download/v0.1.0/meowg1k_0.1.0_windows_amd64.zip",
+            "bin": [
+                "meow.exe"
+            ],
+            "hash": "0c72630d5281b359b804836731b0514f9fe216c56cde0d270f36bbbb1dfd36c9"
+        },
+        "arm64": {
+            "url": "https://github.com/retran/meowg1k/releases/download/v0.1.0/meowg1k_0.1.0_windows_arm64.zip",
+            "bin": [
+                "meow.exe"
+            ],
+            "hash": "bc8f5412fe49e2b9586851679204bd47477b70abc1132af0d7552e450a998588"
+        }
+    },
+    "homepage": "https://github.com/retran/meowg1k",
+    "license": "Apache-2.0",
+    "description": "Your purr-sonal AI sidekick for coding, writing, and automating anything — right from your terminal."
+}
